@@ -9,3 +9,11 @@ https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongs
 ## 2 Compare with the CBDB data
 
 https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/2%20Compare%20with%20the%20CBDB%20data/compare_with_cbdb_data.ipynb
+
+## 3 Keep the essential columns for new persons
+
+https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/3%20Keep%20the%20essential%20columns%20for%20new%20persons/keep-the-essential-columns.ipynb
+
+## 4 Clean the variences in person names
+
+https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/4%20Clean%20the%20variences%20in%20person%20names/clean-the-variences-in-person-names.ipynb
