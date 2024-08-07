@@ -25,3 +25,13 @@ https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongs
 ### Converting the variances
 
 https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/4%20Clean%20the%20variences%20in%20person%20names/step-two-apply-the-instruction-to_data.ipynb
+
+## 5 Create the data for coding
+
+### create-data-for-addr-coding
+
+https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/5%20Create%20the%20data%20for%20coding/create-data-for-addr-coding.ipynb
+
+### create-data-for-office-coding
+
+https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/5%20Create%20the%20data%20for%20coding/create-data-for-office-coding.ipynb
