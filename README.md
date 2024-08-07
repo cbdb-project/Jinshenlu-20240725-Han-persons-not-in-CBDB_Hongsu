@@ -2,6 +2,9 @@
 
 https://github.com/orgs/cbdb-project/projects/3/views/2?pane=issue&itemId=72264379
 
+## Plan for official titles (posting_office_only)
+https://github.com/cbdb-project/project-tasks/issues/637#issuecomment-2272488650
+
 ## 1 Extract the Han persons
 
 https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/1%20Extract%20the%20Han%20persons/extract_the_han_persons.ipynb
@@ -14,6 +17,11 @@ https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongs
 
 https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/3%20Keep%20the%20essential%20columns%20for%20new%20persons/keep-the-essential-columns.ipynb
 
-## 4 Clean the variences in person names
+## 4 Clean the variances in person names
 
+### Finding the variances
 https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/4%20Clean%20the%20variences%20in%20person%20names/clean-the-variences-in-person-names.ipynb
+
+### Converting the variances
+
+https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/4%20Clean%20the%20variences%20in%20person%20names/step-two-apply-the-instruction-to_data.ipynb
