@@ -2,8 +2,8 @@
 
 https://github.com/orgs/cbdb-project/projects/3/views/2?pane=issue&itemId=72264379
 
-## Plan for official titles (posting_office_only)
-https://github.com/cbdb-project/project-tasks/issues/637#issuecomment-2272488650
+## LAST ISSUE!!!!
+For biographical addresses, remove 府 州 縣 路 for len(str) >2
 
 ## 1 Extract the Han persons
 
