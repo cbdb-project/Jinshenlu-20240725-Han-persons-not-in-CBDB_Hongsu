@@ -41,3 +41,7 @@ https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongs
 ## 6 Extract the cooked data
 
 https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/6%20Extract%20the%20cooked%20data/assign-labels-to-data.ipynb
+
+## 7 Create CBDB data
+
+https://github.com/cbdb-project/Jinshenlu-20240725-Han-persons-not-in-CBDB_Hongsu/blob/main/7%20Create%20CBDB%20data/create-cbdb-data.ipynb
